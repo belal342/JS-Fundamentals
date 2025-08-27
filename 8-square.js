@@ -4,6 +4,6 @@ if(!Number(args[0])){
 }
 else{
     for (let i=0;i<Number(args[0]);i++){     
-            console.log("x".repeat(Number(args[0])));
+            console.log("X".repeat(Number(args[0])));
     }
 }
